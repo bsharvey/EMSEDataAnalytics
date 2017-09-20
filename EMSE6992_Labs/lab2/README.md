@@ -2,9 +2,9 @@
 
 ## Part A
 
-* [Lab_2_A_Live.ipynb](http://nbviewer.ipython.org/github/cs109/content/blob/master/labs/lab2/Lab_2_A_Live.ipynb) - starting point for lab
-* [Lab_2_A_Johanna.ipynb](http://nbviewer.ipython.org/github/cs109/content/blob/master/labs/lab2/Lab_2_A_Johanna.ipynb) - Johanna's original writeup
-* [Lab_2_A_Live_Ray_Final.ipynb](http://nbviewer.ipython.org/github/cs109/content/blob/master/labs/lab2/Lab_2_A_Live_Ray_Final.ipynb) - Ray's in-class reconstruction
+* [Lab_2_A_Live.ipynb](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab2/Lab_2_A_Live.ipynb) - Part 1
+* [Lab_2_A_Johanna.ipynb](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab2/Lab_2_A_Johanna.ipynb) - Part 2
+* [Lab_2_A_Live_Ray_Final.ipynb](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab2/Lab_2_A_Live_Ray_Final.ipynb) - Another example
 
 ## Part B
 
