@@ -8,4 +8,4 @@
 
 ## Part B
 
-* [Lab_2_B.ipynb](http://nbviewer.ipython.org/github/cs109/content/blob/master/labs/lab2/Lab_2_B.ipynb) - Reddit example
+* [Lab_2_B.ipynb](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab2/Lab_2_B.ipynb) - Reddit example
