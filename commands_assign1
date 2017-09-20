@@ -1,0 +1,15 @@
+
+
+badd .gitignore
+:b2
+//add list of files to ignore when you push the entire directory
+
+echo "# test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/bsharvey/test.git
+git push -u origin master
+
+
+
