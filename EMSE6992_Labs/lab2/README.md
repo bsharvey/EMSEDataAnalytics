@@ -1,4 +1,4 @@
-# Files for Lab 2 of CS109
+# Files for Lab 2 of EMSE6992
 
 ## Part A
 
